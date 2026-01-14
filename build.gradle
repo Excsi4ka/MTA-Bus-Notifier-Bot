@@ -14,7 +14,7 @@ repositories {
 }
 
 application {
-    mainClass = 'excsi.mtabot.Main'
+    mainClass = 'excsi.mtabot.DiscordBot'
 }
 
 dependencies {
